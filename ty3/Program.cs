@@ -10,7 +10,7 @@ namespace ty3
     {
         static void Main(string[] args)
         {
-
+          //this is for my 
             Console.WriteLine("roj");
             Console.ReadKey();
         }
